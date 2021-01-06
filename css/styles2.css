@@ -5,3 +5,8 @@
 .unimportant {
   color: blue;
 }
+
+.highlight {
+  color: yellow;
+  text-emphasis: bold;
+}
